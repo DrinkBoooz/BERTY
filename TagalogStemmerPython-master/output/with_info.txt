@@ -1,0 +1,3 @@
+{'word': 'Example', 'root': 'example', 'prefix': [], 'infix': [], 'suffix': [], 'repeat': [], 'dupli': [], 'clean': []}
+{'word': 'tagalog', 'root': 'tagalog', 'prefix': [], 'infix': [], 'suffix': [], 'repeat': [], 'dupli': [], 'clean': []}
+{'word': 'text', 'root': 'text', 'prefix': [], 'infix': [], 'suffix': [], 'repeat': [], 'dupli': [], 'clean': []}
